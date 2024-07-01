@@ -1,6 +1,6 @@
 <image src="https://c4.wallpaperflare.com/wallpaper/688/1001/281/coding-developer-quotes-technology-wallpaper-preview.jpg"/>
 
-
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Software%20Engineer%20|%20+Android Developer%20Developer|%20+Backend Developer" alt="Hey, I'm Kiran and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
 
 <h1 align="center">Hi 👋, I'm Kiran Acharya</h1>
 <h3 align="center">Passionate Android Developer</h3>
