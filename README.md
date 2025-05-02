@@ -66,11 +66,7 @@
 
 ---
 
-### ⏳ My Daily Commit Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iamkiraan&theme=github-compact&hide_border=true" />
-</p>
 
 ---
 
