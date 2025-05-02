@@ -68,7 +68,7 @@
 ### ✨ Featured Projects:
 
 <p align="center">
-  <a href="https://github.com/iamkiraan/your-project-1">
+  <a href="https://github.com/iamkiraan/your-project-1](https://github.com/janakkhadka/Blood_Sewa_Minor_Project_6th_Semester">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamkiraan&repo=your-project-1&theme=dark" />
   </a>
   <a href="https://github.com/iamkiraan/your-project-2">
