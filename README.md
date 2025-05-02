@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=3FF3E2&center=true&vCenter=true&width=940&lines=Namaste+👋+I'm+Kiran+Acharya;Android+Developer+%7C+Kotlin+Maestro;Spring+Boot+Enthusiast+%7C+Firebase+Guru;From+the+Himalayas+of+Nepal+🇳🇵" alt="Typing SVG" />
 </p>
 
-
 <h1 align="center">🚀 Crafting Digital Experiences</h1>
 <h3 align="center">Android | Backend | Full-Stack Explorer</h3>
 
@@ -44,10 +43,12 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-#### 🛠️ Tools
+#### 🛠️ Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
@@ -65,16 +66,18 @@
 
 ---
 
-### ✨ Featured Projects:
+### ⏳ My Daily Commit Graph
 
 <p align="center">
-  <a href="https://github.com/iamkiraan/your-project-1](https://github.com/janakkhadka/Blood_Sewa_Minor_Project_6th_Semester">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamkiraan&repo=your-project-1&theme=dark" />
-  </a>
-  <a href="https://github.com/iamkiraan/your-project-2">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamkiraan&repo=your-project-2&theme=dark" />
-  </a>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iamkiraan&theme=github-compact&hide_border=true" />
 </p>
+
+---
+
+### 📌 Quote to Code By
+
+> *“Code is like humor. When you have to explain it, it’s bad.”*  
+> — *Cory House*
 
 ---
 
