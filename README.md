@@ -1,8 +1,9 @@
 <img src="https://c4.wallpaperflare.com/wallpaper/688/1001/281/coding-developer-quotes-technology-wallpaper-preview.jpg" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=3FF3E2&center=true&vCenter=true&width=940&lines=Namaste+👋+I'm+Kiran+Acharya;Android+Developer+%7C+Kotlin+Maestro;Spring+Boot+Enthusiast+%7C+Firebase+Guru;From+the+Himalayas+of+Nepal+🇳🇵" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=3FF3E2&center=true&vCenter=true&width=940&lines=Namaste+👋+I'm+Kiran+Acharya;Android+Developer+%7C+Kotlin+Maestro;Spring+Boot+Enthusiast+%7C+Firebase+Guru;From+the+Himalayas+of+Nepal+🇳🇵" alt="Typing SVG" />
 </p>
+
 
 <h1 align="center">🚀 Crafting Digital Experiences</h1>
 <h3 align="center">Android | Backend | Full-Stack Explorer</h3>
@@ -19,7 +20,7 @@
   <a href="https://www.linkedin.com/in/kiran-acharya-3b140730b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:betaastra112@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
